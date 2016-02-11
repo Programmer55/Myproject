@@ -1,0 +1,1 @@
+This program is self descriptive. It will be my first step up from the traditional "hello world". It will (soon will) add, subtract and multiply two operands. I will add more functionality after I have it properly working or I may start from scratch to add more functionality. 
